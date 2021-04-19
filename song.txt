@@ -7,4 +7,5 @@ some text line №5
 some text line №6
 some text line №7
 some text line №8
-for commit№1
+for commit №1
+for commit №2
